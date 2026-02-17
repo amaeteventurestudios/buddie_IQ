@@ -16,19 +16,20 @@ const Index = () => {
       style={{ backgroundColor: "#262b33" }}
     >
       <div className="max-w-4xl w-full text-center space-y-8">
+        
         {/* Main Title */}
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif">
           Buddie IQ
         </h1>
 
-        {/* Primary Positioning */}
+        {/* Primary Plain-English Positioning */}
         <p className="text-lg md:text-2xl lg:text-3xl">
-          Passive Cold-Chain Exposure Verification Infrastructure
+          We verify that temperature-sensitive shipments stayed cold and sealed during transport and storage.
         </p>
 
         {/* Supporting Line */}
         <p className="text-base md:text-xl lg:text-2xl">
-          Battery-Free Verification for Temperature-Sensitive Logistics
+          Battery-free sensors that flag temperature abuse or tampering before goods move forward.
         </p>
 
         {/* Feature Icons */}
