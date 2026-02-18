@@ -44,7 +44,7 @@ const Index = () => {
         <p className="text-sm md:text-base font-semibold">
           Contact:{" "}
           <a href="mailto:founder@buddieiq.com" className="underline">
-            amaete@buddieiq.com
+            founder@buddieiq.com
           </a>
         </p>
       </div>
